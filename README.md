@@ -1,1 +1,1 @@
-# Expense-Tracker
+# Expense-Tracker                 =   An expense tracker is a tool or application that helps individuals or businesses keep track of their spending and manage their finances. It allows users to record and categorize their expenses, set budgets and financial goals, and generate reports to help them make  decisions about their money.
